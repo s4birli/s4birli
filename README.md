@@ -1,4 +1,4 @@
-# **Mehmet Sabirli**
+# ✨**Mehmet Sabirli**✨
 ## Full Stack Developer (Contract Only – IR35 Outside)
 
 Tech-savvy and solution-oriented full stack developer with hands-on experience developing wide-range of web and mobile based
@@ -28,7 +28,8 @@ base, minimise cost, and saved $50K annually through licensing.
 - Contributed to developing program with ability to create videos and publishes as well as publish on YouTube.
 
 ## Technical Proficiencies
-
+|  |  |
+| ------ | ------ |
 | Programming Languages | HTML, CSS, Bootstrap, Typescript, JavaScript, jQuery, Node.Js, Express.Js, ReactJS, Angular2+, VueJs Python, C#, ASP.Net |
 | Database | MSSQL, NoSQL, MongoDB, MySQL, PostgreSQL |
 | Framework & Tools | Entity Framework, LINQ to SQL, Dapper, ADO.Net, SSID, NUnit, MsTest |
