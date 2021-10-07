@@ -43,23 +43,47 @@ base, minimise cost, and saved $50K annually through licensing.
 
 > ### **Digital Trading Ltd, Swindon, UK (Dec 2020 – July 2021)**
 > ##### Full Stack Developer – Contractor
-> #### **Tools & Technologies:** .NET, C#, MVC, DotNetNuke, MSSQL, GitHub, Agile/Scrum
+> #### **Tools & Technologies:** _.NET, C#, MVC, DotNetNuke, MSSQL, GitHub, Agile/Scrum_
 > Build an e-commercial site for one of the biggest book wholesaler company in UK from scratch with DNN (PaperBack Shop).
 Also support Angular Project for one of the biggest furniture Company in World Wide (Vitra). Used DotNetNuke, MVC, C#,
 Javascript, Jquery, MSSQL.
 
 > ### **Bromcom, Bromley, UK (Oct 2020 – Dec 2020)**
 > ##### Full Stack Developer – Contractor
-> #### **Tools & Technologies:** .NET, C#, MVC, MSSQL, GitHub, Agile/Scrum
+> #### **Tools & Technologies:** _.NET, C#, MVC, MSSQL, GitHub, Agile/Scrum_
 > Provided expert-level support in adding new features in their leading web-based school MIS app, while employing .Net, MVC
 and SQL in the development of complete project.
 
 
 > ### **GL Assessment, Oxford, UK (Sep 2019 – Apr 2020)**
 > ##### Full Stack Developer
-> #### **Tools & Technologies:** Angular 8, Typescript, Create.JS, Firebase, GitHub, Agile/Scrum
+> #### **Tools & Technologies:** _Angular 8, Typescript, Create.JS, Firebase, GitHub, Agile/Scrum_
 > Provided expert-level support in transforming flash contents to HTML5 with Create.JS framework, while employing Angular 8
 in the development of complete project.
+
+
+> ### **Nexum Bogazici, Istanbul, Turkey (2018 – 2019)**
+> ##### Senior Full Stack Developer
+> #### **Tools & Technologies:** _C#, ASP.Net, .Net Core, .Net MVC, Web Forms, Win Form, Dapper, MSSQL, MongoDB, Node, Angular 4, React, TypeScript, JavaScript, jQuery, HTML, CSS, Bootstrap, ExpressJS, WPF, WCF, REST, Web API, SOAP, SSID, MsTest, NUnit, Agile/Scrum, OOP, TDD, SOLID, Code Review, BDD, AWS, Jira, GIT_
+> Provided leadership support to team of five developer in development of multiple projects, while ensuring timely delivery of projects in line with specification within time and budget constraints. Facilitated clients to  manage and control their businesses by providing contribution to developing custom-made CMS through utilisation of advanced programming languages and tools.
+
+> ### **CMC Turkey, Istanbul, Turkey (2015 – 2018)**
+> ##### Senior Full Stack Developer
+> #### **Tools & Technologies:** _C#, ASP.Net, .Net MVC, Web Forms, Win Form, Entity Framework, MSSQL, NoSQL, Angular 2, JavaScript, jQuery, HTML, CSS, Bootstrap, WPF, WCF, REST, Web API, SOAP, SSID , Agile/Scrum, OOP, TDD, SOLID, Code Review, Azure, Elasticsearch, TFS_
+> Drove assistance in designing and developing custom Omni-Channel CRM tools web chat applications for various call centres and cross-functional clients. Developed website as a central point for all comments and direct messages for easy accessibility, while responding and managing all customer at one place.
+
+#### ***Additional experience:*** **Senior Full Stack Developer** at Kayaport Technology and **Junior Stack Developer** at Win Bilgi (Comdata)
+
+## **Education**
+
+### Computer Information System
+>Golden-Beacom College, Delaware, USA
+
+## **Licenses & Certifications**
+
+### Licenses & Certifications
+
+
 
 <!--
 **s4birli/s4birli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
