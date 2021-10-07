@@ -59,7 +59,6 @@ base, minimise cost, and saved $50K annually through licensing.
 | Cloud Platform & Version Control | AWS, Azure, FireBase, DigitalOcean, Elasticsearch, DevExpress, Jira, GIT, TFS |
 | Solutions Architect | Project analysis, Tasks breakdown, Documentations, Wireframes, Time estimates | -->
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
