@@ -81,7 +81,7 @@ in the development of complete project.
 
 ## **Licenses & Certifications**
 
-### Licenses & Certifications
+### Certificate in Software Development – Bilisim Egitim
 
 
 
