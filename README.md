@@ -19,7 +19,7 @@
 
 
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true)
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true)
 
 ## Full Stack Developer (Contract Only – IR35 Outside)
 
