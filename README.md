@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/s4birli/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/linkedin.svg" alt="Connect Me"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Me-blue" alt="Connect Me"/>
   </a>
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s4birli.s4birli" />
