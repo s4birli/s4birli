@@ -9,8 +9,7 @@
 
 <h1 align="center">
   
-[![website](./img/whatsapp-light.svg)](https://wa.me/447795080328#gh-light-mode-only)
-[![website](./img/whatsapp-light.svg)](https://wa.me/447795080328#gh-dark-mode-only)
+[![website](./img/whatsapp.png)](https://wa.me/447795080328)
 &nbsp;&nbsp;
 [![website](./img/skype-light1.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
 [![website](./img/skype-dark1.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-dark-mode-only)
