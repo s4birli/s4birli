@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./style.css">
+
 # ✨**Mehmet Sabirli**✨
 <p align="center">
   <img align="center" src="logo.png" style = "width: -webkit-fill-available;"/>
@@ -6,15 +8,13 @@
 ### Connect with me:
 
 <h1 align="center">
-  [<img src="./instagram.svg" alt="Instagram" width="22px !important" />]<a href="https://www.instagram.com/s4birli/">[Follow Me]</a>
-  <a href="https://www.linkedin.com/in/s4birli/"><img src="./linkedIn.svg" alt="LinkedIn" width="22px !important"/>Connect</a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/cLoBSzxGYKtS">
-  <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/s4birli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Me-blue" alt="Connect Me"/>
-  </a>
+  <ul>
+  <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+  <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+  <li><a href="#"><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
+  <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+  <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+</ul>
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s4birli.s4birli" />
 <img align="right" src="https://img.shields.io/github/followers/s4birli?label=Follow&style=social" />
