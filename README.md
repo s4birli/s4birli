@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="./style.css" type="text/css">
 
 # ✨**Mehmet Sabirli**✨
 <p align="center">
