@@ -8,8 +8,7 @@
 ### Connect with me:
 
 <h1 align="center">
-  
-[![website](./img/whatsapp.png) height:20px; ](https://wa.me/447795080328)
+  <a href="https://wa.me/447795080328"><img src="./img/whatsapp.png" height="30px" style="border-radius:5px" /></a>
 &nbsp;&nbsp;
 [![website](./img/skype-light1.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
 [![website](./img/skype-dark1.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-dark-mode-only)
