@@ -3,8 +3,10 @@
   <img align="center" src="logo.png" style = "width: -webkit-fill-available;"/>
 </p>
 
+### Connect with me:
+
 <h1 align="center">
-  <a href="https://www.instagram.com/s4birli/"><img src="./instagram.svg" alt="Instagram" width="22px !important" />Follow Me</a>
+  [<img src="./instagram.svg" alt="Instagram" width="22px !important" />]<a href="https://www.instagram.com/s4birli/">[Follow Me]</a>
   <a href="https://www.linkedin.com/in/s4birli/"><img src="./linkedIn.svg" alt="LinkedIn" width="22px !important"/>Connect</a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/cLoBSzxGYKtS">
