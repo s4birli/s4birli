@@ -8,13 +8,21 @@
 ### Connect with me:
 
 <h1 align="center">
-  <ul>
-  <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-  <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-  <li><a href="#"><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
-  <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
-  <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-</ul>
+  
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s4birli.s4birli" />
 <img align="right" src="https://img.shields.io/github/followers/s4birli?label=Follow&style=social" />
