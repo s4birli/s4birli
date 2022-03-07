@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">
-  <img src="./instagram.svg" alt="Instagram"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <a href="https://www.instagram.com/s4birli/"><img src="./instagram.svg" alt="Instagram" style="max-width: 20px;" />Follow Me</a>
+  <a href="https://www.linkedin.com/in/s4birli/"><img src="./linkedIn.svg" alt="LinkedIn" style="max-width: 20px;"/>Connect</a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/cLoBSzxGYKtS">
   <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/>
