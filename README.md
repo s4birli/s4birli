@@ -8,11 +8,11 @@
 ### Connect with me:
 
 <h1 align="center">
-<a href="https://wa.me/447795080328"><img src="./img/whatsapp-dark.svg" height="25px" style="width: -webkit-fill-"/></a>
-<a href="https://join.skype.com/invite/cLoBSzxGYKtS"><img src="./img/skype.svg" height="25px" style="width: -webkit-fill-"/></a>
-<a href="https://twitter.com/s4birli"><img src="./img/twitter.svg" height="25px" style="width: -webkit-fill-"/></a>
-<a href="https://linkedin.com/in/s4birli"><img src="./img/linkedIn.svg" height="25px" style="width: -webkit-fill-"/></a>
-<a href="https://instagram.com/s4birli"><img src="./img/instagram.svg" height="25px" style="width: -webkit-fill-"/></a>
+  <a href="https://wa.me/447795080328" target="_blank"><img src="./img/whatsapp.svg" height="25px" style="width: -webkit-fill-"/></a>
+  <a href="https://join.skype.com/invite/cLoBSzxGYKtS" target="_blank"><img src="./img/skype.svg" height="25px" style="width: -webkit-fill-"/></a>
+  <a href="https://twitter.com/s4birli" target="_blank"><img src="./img/twitter.svg" height="25px" style="width: -webkit-fill-"/></a>
+  <a href="https://linkedin.com/in/s4birli" target="_blank"><img src="./img/linkedIn.svg" height="25px" style="width: -webkit-fill-"/></a>
+  <a href="https://instagram.com/s4birli" target="_blank"><img src="./img/instagram.svg" height="25px" style="width: -webkit-fill-"/></a>
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s4birli.s4birli" />
 <img align="right" src="https://img.shields.io/github/followers/s4birli?label=Follow&style=social" />
