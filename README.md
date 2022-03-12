@@ -8,7 +8,8 @@
 ### Connect with me:
 
 <h1 align="center">
-[![website](./img/whatsapp-dark.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
+<a href="https://wa.me/447795080328"><img src="./img/whatsapp-dark.svg" style="width: -webkit-fill-"/></a>
+<!-- [![website](./img/whatsapp-dark.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
 [![website](./img/whatsapp-light.svg)](https://wa.me/447795080328#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/skype-light1.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
@@ -21,7 +22,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/s4birli#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/s4birli#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/s4birli#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/s4birli#gh-dark-mode-only) -->
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s4birli.s4birli" />
 <img align="right" src="https://img.shields.io/github/followers/s4birli?label=Follow&style=social" />
