@@ -8,8 +8,8 @@
 ### Connect with me:
 
 <h1 align="center">
-<a href="https://wa.me/447795080328"><img src="./img/whatsapp-dark.svg" width="125px" style="width: -webkit-fill-"/></a>
-<a href="https://join.skype.com/invite/cLoBSzxGYKtS"><img src="./img/skype.svg" width="125px" style="width: -webkit-fill-"/></a>
+<a href="https://wa.me/447795080328"><img src="./img/whatsapp-dark.svg" height="30px" style="width: -webkit-fill-"/></a>
+<a href="https://join.skype.com/invite/cLoBSzxGYKtS"><img src="./img/skype.svg" height="30px" style="width: -webkit-fill-"/></a>
 <!-- [![website](./img/whatsapp-dark.svg)](https://join.skype.com/invite/cLoBSzxGYKtS#gh-light-mode-only)
 [![website](./img/whatsapp-light.svg)](https://wa.me/447795080328#gh-dark-mode-only)
 &nbsp;&nbsp;
