@@ -97,8 +97,6 @@ base, minimise cost, and saved $50K annually through licensing.
 
 ## Career Experience 
 
-## Career Experience 
-
 > ### **Nintex, South Africa (Remote) (Jun 2024 – Dec 2024)**
 > ##### Senior Full Stack Developer – Contractor
 > #### **Tools & Technologies:** _PostgreSQL, React, Node.js, JavaScript, TypeScript, REST API, GitHub, .NET Core, .NET MVC, Ubuntu, Agile/Scrum_
