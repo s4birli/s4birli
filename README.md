@@ -97,6 +97,57 @@ base, minimise cost, and saved $50K annually through licensing.
 
 ## Career Experience 
 
+## Career Experience 
+
+> ### **Nintex, South Africa (Remote) (Jun 2024 – Dec 2024)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _PostgreSQL, React, Node.js, JavaScript, TypeScript, REST API, GitHub, .NET Core, .NET MVC, Ubuntu, Agile/Scrum_
+> - Transitioned MVC-based applications to React, improving localization and scalability of legacy systems.
+> - Delivered optimized backend services with Node.js and PostgreSQL, enhancing system reliability.
+> - Streamlined collaboration with GitHub for efficient version control and team alignment.
+
+> ### **Gray Dawes Travel, London, UK (Remote) (Mar 2024 – Jun 2024)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _React, .NET Core, REST API, SOAP API, Bootstrap, JavaScript, TypeScript, MSSQL, Azure, Microservices, Agile/Scrum_
+> - Converted legacy desktop applications in C# into scalable .NET Core Web APIs, reducing operational costs.
+
+> ### **Ventures Lab, London, UK (Hybrid) (Aug 2023 – Mar 2024)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _React, .NET Core, REST API, SOAP API, Bootstrap, JavaScript, TypeScript, MSSQL, Microservices, Agile/Scrum_
+> - Implemented seamless payment gateway integrations, enhancing payment flexibility for retail platforms.
+> - Developed interactive front-end solutions with React to improve customer retention.
+
+> ### **CloudCall, London, UK (Remote) (Mar 2023 – Aug 2023)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _React, Tailwind, C#, .NET 6, AWS Services, Microservices, Microsoft Teams API, Agile/Scrum_
+> - Integrated Microsoft Teams API to enable real-time audio capture and processing during meetings.
+> - Automated meeting analysis with a transcription and summarization service using AWS.
+
+> ### **Systematix, Reading, UK (On-Site) (Nov 2022 – Mar 2023)**
+> ##### Senior Full Stack Developer – Contractor (Unofficial Team Lead)
+> #### **Tools & Technologies:** _Angular, C#, .NET 6, Azure SQL, Azure Blob, Microservices, GraphQL, REST API, Agile/Scrum_
+> - Led migrations from AngularJS to Angular, enhancing application performance and maintainability.
+> - Delivered seamless integration with HMRC and HMRL for legal management software.
+
+> ### **Protokol, Cardiff, UK (Remote) (May 2022 – Nov 2022)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _React, Tailwind, Nest, Redux, Node.js, TypeScript, AWS, DynamoDB, MongoDB, Firebase, Jest, Agile/Scrum_
+> - Assisted with Web3 and NFT development projects, including Metenomic and Club Dvin platforms.
+
+> ### **Distributed, London, UK (Remote) (Apr 2022 – Aug 2022)**
+> ##### Senior Full Stack Developer – Contractor (Unofficial Team Lead)
+> #### **Tools & Technologies:** _React, Tailwind, Next.js, Redux, .NET, Node.js, TypeScript, Microservices, REST API, AWS, DynamoDB, MongoDB_
+> - Transformed freelance platform to a modern Next.js and AWS-based application, improving scalability and performance.
+
+> ### **Illuminate Solutions Limited, Poole, UK (Remote) (Jul 2021 – May 2022)**
+> ##### Senior (Lead) Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _React, Node.js, TypeScript, AWS, Docker, D3, AWS Lambda, Bitbucket, Agile/Scrum_
+> - Built a real-time risk management dashboard, leveraging Next.js and React.
+
+> ### **University of Bristol, Bristol, UK (Remote) (Jul 2021 – Mar 2022)**
+> ##### Senior Full Stack Developer – Contractor
+> #### **Tools & Technologies:** _Angular, Node.js, TypeScript, Docker, MongoDB, Agile/Scrum_
+> - Developed and maintained applications with Angular and Node.js for improved user engagement.
 
 > ### **Digital Trading Ltd, Swindon, UK (Dec 2020 – July 2021)**
 > ##### Full Stack Developer – Contractor
