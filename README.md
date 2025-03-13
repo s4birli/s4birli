@@ -8,7 +8,7 @@
 ### Connect with me:
 
 <h1 align="center">
-  <a href="https://github.com/sponsors/s4birli/button" target="_blank">Sponsor</a> 
+  <a href="https://github.com/sponsors/s4birli" target="_blank">Sponsor</a> 
   <a href="https://join.skype.com/invite/cLoBSzxGYKtS" target="_blank"><img src="./img/skype.svg" height="25px" style="width: -webkit-fill-"/></a>
   <a href="https://linkedin.com/in/s4birli" target="_blank"><img src="./img/linkedIn.svg" height="25px" style="width: -webkit-fill-"/></a>
 </h1>
