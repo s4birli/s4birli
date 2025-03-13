@@ -8,6 +8,7 @@
 ### Connect with me:
 
 <h1 align="center">
+  <iframe src="https://github.com/sponsors/s4birli/button" title="Sponsor s4birli" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
   <a href="https://join.skype.com/invite/cLoBSzxGYKtS" target="_blank"><img src="./img/skype.svg" height="25px" style="width: -webkit-fill-"/></a>
   <a href="https://linkedin.com/in/s4birli" target="_blank"><img src="./img/linkedIn.svg" height="25px" style="width: -webkit-fill-"/></a>
 </h1>
@@ -22,7 +23,7 @@
 
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true)
 
-## Full Stack Developer (Contract Only – IR35 Outside)
+## Full Stack Developer 
 
 Tech-savvy and solution-oriented full stack developer with hands-on experience developing wide-range of web and mobile based
 application as well as robust solutions by utilisation of advanced programming languages and tools. Ability to design UI
